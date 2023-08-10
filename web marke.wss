@@ -1,0 +1,251 @@
+<site version="3.0"><css/><components/><page id="p889512359" pageindex="0" name="index" pp="0" cp="0"><body><Component type="10" id="roundrect1" zorder="0" filename="roundrect889610984" width="1132" height="79" fillstyle="0" spborder="0" fromcolor="#FF0000" shapetype="1" radius="27" previewfile="C:\Users\LENOVO\AppData\Local\Temp\Web Page Maker\doc0HAE2\shapeD3TPF.gif" left="8" top="9" bordercolor="#808080" borderwidth="1" bgcolor="" borderstyle="" fp="0"/><Component type="10" id="roundrect2" zorder="1" filename="roundrect889756843" width="447" height="90" fillstyle="0" spborder="1" fromcolor="#FFFFFF" shapetype="1" radius="31" previewfile="C:\Users\LENOVO\AppData\Local\Temp\Web Page Maker\doc0HAE2\shapeBBEM3.gif" left="658" top="108" bordercolor="#000000" borderwidth="2" tocolor="#808080" bgcolor="" borderstyle="" fp="0"/><Component type="10" id="roundrect3" zorder="2" filename="roundrect889850781" width="447" height="90" fillstyle="0" spborder="1" fromcolor="#FFFFFF" shapetype="1" radius="31" previewfile="C:\Users\LENOVO\AppData\Local\Temp\Web Page Maker\doc0HAE2\shape6V68F.gif" left="657" top="208" bordercolor="#000000" borderwidth="2" tocolor="#808080" bgcolor="" borderstyle=""/><Component type="3" id="image1" zorder="3" filename="image890337421" left="20" top="104" width="587" height="196" originwidth="600" originheight="300" src="C:\Users\LENOVO\Pictures\27183f4adedf30a9da2560f196a677a5_L.jpg" previewfile="C:\Users\LENOVO\Pictures\27183f4adedf30a9da2560f196a677a5_L.jpg" fp="0"/><Component type="5" id="nav1" zorder="4" filename="nav890724000" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="31" normalimage="C:\Users\LENOVO\Documents\Web Page Maker\Navbar\rect02in.gif" mouseoverimage="C:\Users\LENOVO\Documents\Web Page Maker\Navbar\rect02over.gif" mouseoversound="" navtext0="Inicio " navurl0="page://p892191890" navtarget0="" navstate0="0" navtext1="San Nicolas" navurl1="" navtarget1="" navstate1="0" navtext2="Santa Monica " navurl2="page://p893147562" navtarget2="" navstate2="0" navcount="3" width="180" height="108" preview="C:\Users\LENOVO\AppData\Local\Temp\Web Page Maker\doc0HAE2\Nav1JJKF" left="67" top="336" fp="0"/><Component type="5" id="nav2" zorder="5" filename="nav890890000" fontname="Tahoma" fontsize="10" fontcolor="0" fontstyle="1" activecolor="255" navspace="19" navstyle="0" hormargin="4" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="C:\Users\LENOVO\Documents\Web Page Maker\Navbar\cc01in.gif" mouseoverimage="C:\Users\LENOVO\Documents\Web Page Maker\Navbar\cc01over.gif" mouseoversound="" navtext0="Inicio" navurl0="" navtarget0="" navstate0="0" navtext1="facebook" navurl1="" navtarget1="" navstate1="0" navtext2="contadores" navurl2="" navtarget2="" navstate2="0" navtext3="contactame" navurl3="" navtarget3="" navstate3="0" navcount="5" width="720" height="37" preview="C:\Users\LENOVO\AppData\Local\Temp\Web Page Maker\doc0HAE2\Nav5AK1O" left="61" top="31" navtext4="fechas" navstate4="0" fp="0"/><Component type="18" id="iFrame1" zorder="6" filename="iFrame892018031" image1="C:\Program Files (x86)\Web Page Maker\Component\arrow_up.gif" image2="C:\Program Files (x86)\Web Page Maker\Component\arrow_down.gif" image3="" image4="" auto="0" direction="1" scroll="no" frameborder="1" frametype="0" src="p892191890" width="855" height="433" left="281" top="330" swidth="16" sheight="16" selected="1"/></body></page><page id="p892191890" pageindex="1" name="page2" pp="0" cp="0"><body><Component type="3" id="image1" zorder="0" filename="image892346187" left="0" top="0" width="192" height="267" originwidth="230" originheight="320" src="C:\Users\LENOVO\Pictures\8794dfea-dd23-4e5b-a416-c84e7191f16e.jpg" previewfile="C:\Users\LENOVO\Pictures\8794dfea-dd23-4e5b-a416-c84e7191f16e.jpg"/><Component type="2" id="text2" zorder="1" filename="text892675187" width="809" height="250" html="" left="244" top="3" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Century Gothic" style="font-size:19px;"&gt;San Agustín&amp;nbsp; nació en Tagaste (Argelia actual) el 13 de noviembre del 354 y murió en Hipona el 28 de agosto del 430.&amp;nbsp; Su padre, Patricio, un pagano de posición social acomodada, que luego de una larga resistencia a la fe, hacia el final de su vida se convierte al cristianismo. Mónica, su madre, era una devota cristiana.&amp;nbsp; Al enviudar, se consagró totalmente a la conversión de su hijo Agustín.&amp;nbsp; Lo primero que enseñó a su hijo Agustín fue a orar, pero luego de verle gozar de esas santas lecciones, sufrió al ver como iba apartándose de la Verdad hasta que su espíritu se infectó con los errores maniqueos y, su corazón, con las costumbres de la disoluta Roma.&amp;nbsp; Mónica confiando en las palabras de un Santo Obispo que le dijo: “el hijo de tantas lágrimas no puede perderse”, no cesó de tratar de convertirle por la oración y la persuasión hasta lograrlo.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Century Gothic" class="ws14"&gt;San Agustín&amp;nbsp; nació en Tagaste (Argelia actual) el 13 de noviembre del 354 y murió en Hipona el 28 de agosto del 430.&amp;nbsp; Su padre, Patricio, un pagano de posición social acomodada, que luego de una larga resistencia a la fe, hacia el final de su vida se convierte al cristianismo. Mónica, su madre, era una devota cristiana.&amp;nbsp; Al enviudar, se consagró totalmente a la conversión de su hijo Agustín.&amp;nbsp; Lo primero que enseñó a su hijo Agustín fue a orar, pero luego de verle gozar de esas santas lecciones, sufrió al ver como iba apartándose de la Verdad hasta que su espíritu se infectó con los errores maniqueos y, su corazón, con las costumbres de la disoluta Roma.&amp;nbsp; Mónica confiando en las palabras de un Santo Obispo que le dijo: “el hijo de tantas lágrimas no puede perderse”, no cesó de tratar de convertirle por la oración y la persuasión hasta lograrlo.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrrAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5DZW50dXJ5IEdvdGhpYwRTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpy
+dnMNClABAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0
+eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9T
+dHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAQlTdHlsZU5hbWUGCkxl
+ZnQgQWxpZ24IU3RhbmRhcmQICUFsaWdubWVudAcKcnZhSnVzdGlmeQdPcHRpb25zCwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgNCAwIDAgMA0KU2FuIEFndXN07W4gIG5h
+Y2nzIGVuIFRhZ2FzdGUgKEFyZ2VsaWEgYWN0dWFsKSBlbCAxMyBkZSBub3ZpZW1icmUgZGVsIDM1
+NCB5IG11cmnzIGVuIEhpcG9uYSBlbCAyOCBkZSBhZ29zdG8gZGVsIDQzMC4gIFN1IHBhZHJlLCBQ
+YXRyaWNpbywgdW4gcGFnYW5vIGRlIHBvc2ljafNuIHNvY2lhbCBhY29tb2RhZGEsIHF1ZSBsdWVn
+byBkZSB1bmEgbGFyZ2EgcmVzaXN0ZW5jaWEgYSBsYSBmZSwgaGFjaWEgZWwgZmluYWwgZGUgc3Ug
+dmlkYSBzZSBjb252aWVydGUgYWwgY3Jpc3RpYW5pc21vLiBN825pY2EsIHN1IG1hZHJlLCBlcmEg
+dW5hIGRldm90YSBjcmlzdGlhbmEuICBBbCBlbnZpdWRhciwgc2UgY29uc2FncvMgdG90YWxtZW50
+ZSBhIGxhIGNvbnZlcnNp824gZGUgc3UgaGlqbyBBZ3VzdO1uLiAgTG8gcHJpbWVybyBxdWUgZW5z
+ZfHzIGEgc3UgaGlqbyBBZ3VzdO1uIGZ1ZSBhIG9yYXIsIHBlcm8gbHVlZ28gZGUgdmVybGUgZ296
+YXIgZGUgZXNhcyBzYW50YXMgbGVjY2lvbmVzLCBzdWZyafMgYWwgdmVyIGNvbW8gaWJhIGFwYXJ0
+4W5kb3NlIGRlIGxhIFZlcmRhZCBoYXN0YSBxdWUgc3UgZXNw7XJpdHUgc2UgaW5mZWN08yBjb24g
+bG9zIGVycm9yZXMgbWFuaXF1ZW9zIHksIHN1IGNvcmF6824sIGNvbiBsYXMgY29zdHVtYnJlcyBk
+ZSBsYSBkaXNvbHV0YSBSb21hLiAgTfNuaWNhIGNvbmZpYW5kbyBlbiBsYXMgcGFsYWJyYXMgZGUg
+dW4gU2FudG8gT2Jpc3BvIHF1ZSBsZSBkaWpvOiCTZWwgaGlqbyBkZSB0YW50YXMgbOFncmltYXMg
+bm8gcHVlZGUgcGVyZGVyc2WULCBubyBjZXPzIGRlIHRyYXRhciBkZSBjb252ZXJ0aXJsZSBwb3Ig
+bGEgb3JhY2nzbiB5IGxhIHBlcnN1YXNp824gaGFzdGEgbG9ncmFybG8uDQo=
+</rvf></Component><Component type="2" id="text3" zorder="2" filename="text892675203" width="566" height="55" html="" left="0" top="307" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FF0000" face="Century Gothic" style="font-size:21px;"&gt;tiene que trabajar y experimenar con este programa&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FF0000" face="Century Gothic" class="ws16"&gt;tiene que trabajar y experimenar con este programa&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr4AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5DZW50dXJ5IEdvdGhpYwRTaXplAhAFQ29sb3IHBWNsUmVkAAAtOSAy
+IDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1Jl
+YWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KdGllbmUgcXVlIHRyYWJhamFy
+IHkgZXhwZXJpbWVuYXIgY29uIGVzdGUgcHJvZ3JhbWENCg==
+</rvf></Component><Component type="2" id="text4" zorder="3" filename="text892675218" width="774" height="545" html="" left="263" top="354" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:19px;"&gt; El "Doctor de la Gracia" fue el máximo pensador del cristianismo del primer milenio y según Antonio Livi uno de los más grandes genios de la humanidad. Autor prolífico, dedicó gran parte de su vida a escribir sobre filosofía y teología siendo Confesiones y La Ciudad de Dios sus obras más destacadas.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:19px;"&gt;Biografía&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:19px;"&gt;Nacimiento, infancia y adolescencia&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:19px;"&gt;San Agustín nació el 13 de noviembre de 354 en Tagaste, una antigua ciudad en el norte de África sobre la que se asienta la actual localidad argelina de Suq Ahras, situada entonces en Numidia, una de las provincias del Imperio romano. Los eruditos generalmente están de acuerdo en que Agustín y su familia eran bereberes, un grupo étnico indígena del norte de África.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:19px;"&gt;Agustín y su familia estaban fuertemente romanizados, y hablaban solo latín en casa como una cuestión de orgullo y dignidad.Sin embargo, Agustín deja alguna información sobre la conciencia de su herencia africana. Por ejemplo, se refiere a Apuleyo como "el más notorio de nosotros los africanos".&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:19px;"&gt;Su padre, llamado Patricio, era un pequeño propietario pagano y su madre, la futura santa Mónica, es puesta por la Iglesia como ejemplo de mujer cristiana, de piedad y bondad probadas, madre abnegada y preocupada siempre por el bienestar de su familia, aun bajo las circunstancias más adversas.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws14"&gt; El "Doctor de la Gracia" fue el máximo pensador del cristianismo del primer milenio y según Antonio Livi uno de los más grandes genios de la humanidad. Autor prolífico, dedicó gran parte de su vida a escribir sobre filosofía y teología siendo Confesiones y La Ciudad de Dios sus obras más destacadas.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws14"&gt;Biografía&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws14"&gt;Nacimiento, infancia y adolescencia&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws14"&gt;San Agustín nació el 13 de noviembre de 354 en Tagaste, una antigua ciudad en el norte de África sobre la que se asienta la actual localidad argelina de Suq Ahras, situada entonces en Numidia, una de las provincias del Imperio romano. Los eruditos generalmente están de acuerdo en que Agustín y su familia eran bereberes, un grupo étnico indígena del norte de África.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws14"&gt;Agustín y su familia estaban fuertemente romanizados, y hablaban solo latín en casa como una cuestión de orgullo y dignidad.Sin embargo, Agustín deja alguna información sobre la conciencia de su herencia africana. Por ejemplo, se refiere a Apuleyo como "el más notorio de nosotros los africanos".&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws14"&gt;Su padre, llamado Patricio, era un pequeño propietario pagano y su madre, la futura santa Mónica, es puesta por la Iglesia como ejemplo de mujer cristiana, de piedad y bondad probadas, madre abnegada y preocupada siempre por el bienestar de su familia, aun bajo las circunstancias más adversas.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrrAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5DZW50dXJ5IEdvdGhpYwRTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpy
+dnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0
+eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9T
+dHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0
+DQpydnMNCgIAAAAOADMgMTEgMCAwIDAgMA0KIEVsICJEb2N0b3IgZGUgbGEgR3JhY2lhIiBmdWUg
+ZWwgbeF4aW1vIHBlbnNhZG9yIGRlbCBjcmlzdGlhbmlzbW8gZGVsIHByaW1lciBtaWxlbmlvIHkg
+c2Vn+m4gQW50b25pbyBMaXZpIHVubyBkZSBsb3MgbeFzIGdyYW5kZXMgZ2VuaW9zIGRlIGxhIGh1
+bWFuaWRhZC4gQXV0b3IgcHJvbO1maWNvLCBkZWRpY/MgZ3JhbiBwYXJ0ZSBkZSBzdSB2aWRhIGEg
+ZXNjcmliaXIgc29icmUgZmlsb3NvZu1hIHkgdGVvbG9n7WEgc2llbmRvIENvbmZlc2lvbmVzIHkg
+TGEgQ2l1ZGFkIGRlIERpb3Mgc3VzIG9icmFzIG3hcyBkZXN0YWNhZGFzLg0KDQpCaW9ncmFm7WEN
+Cg0KTmFjaW1pZW50bywgaW5mYW5jaWEgeSBhZG9sZXNjZW5jaWENClNhbiBBZ3VzdO1uIG5hY2nz
+IGVsIDEzIGRlIG5vdmllbWJyZSBkZSAzNTQgZW4gVGFnYXN0ZSwgdW5hIGFudGlndWEgY2l1ZGFk
+IGVuIGVsIG5vcnRlIGRlIMFmcmljYSBzb2JyZSBsYSBxdWUgc2UgYXNpZW50YSBsYSBhY3R1YWwg
+bG9jYWxpZGFkIGFyZ2VsaW5hIGRlIFN1cSBBaHJhcywgc2l0dWFkYSBlbnRvbmNlcyBlbiBOdW1p
+ZGlhLCB1bmEgZGUgbGFzIHByb3ZpbmNpYXMgZGVsIEltcGVyaW8gcm9tYW5vLiBMb3MgZXJ1ZGl0
+b3MgZ2VuZXJhbG1lbnRlIGVzdOFuIGRlIGFjdWVyZG8gZW4gcXVlIEFndXN07W4geSBzdSBmYW1p
+bGlhIGVyYW4gYmVyZWJlcmVzLCB1biBncnVwbyDpdG5pY28gaW5k7WdlbmEgZGVsIG5vcnRlIGRl
+IMFmcmljYS4NCg0KQWd1c3TtbiB5IHN1IGZhbWlsaWEgZXN0YWJhbiBmdWVydGVtZW50ZSByb21h
+bml6YWRvcywgeSBoYWJsYWJhbiBzb2xvIGxhdO1uIGVuIGNhc2EgY29tbyB1bmEgY3Vlc3Rp824g
+ZGUgb3JndWxsbyB5IGRpZ25pZGFkLlNpbiBlbWJhcmdvLCBBZ3VzdO1uIGRlamEgYWxndW5hIGlu
+Zm9ybWFjafNuIHNvYnJlIGxhIGNvbmNpZW5jaWEgZGUgc3UgaGVyZW5jaWEgYWZyaWNhbmEuIFBv
+ciBlamVtcGxvLCBzZSByZWZpZXJlIGEgQXB1bGV5byBjb21vICJlbCBt4XMgbm90b3JpbyBkZSBu
+b3NvdHJvcyBsb3MgYWZyaWNhbm9zIi4NCg0KDQpTdSBwYWRyZSwgbGxhbWFkbyBQYXRyaWNpbywg
+ZXJhIHVuIHBlcXVl8W8gcHJvcGlldGFyaW8gcGFnYW5vIHkgc3UgbWFkcmUsIGxhIGZ1dHVyYSBz
+YW50YSBN825pY2EsIGVzIHB1ZXN0YSBwb3IgbGEgSWdsZXNpYSBjb21vIGVqZW1wbG8gZGUgbXVq
+ZXIgY3Jpc3RpYW5hLCBkZSBwaWVkYWQgeSBib25kYWQgcHJvYmFkYXMsIG1hZHJlIGFibmVnYWRh
+IHkgcHJlb2N1cGFkYSBzaWVtcHJlIHBvciBlbCBiaWVuZXN0YXIgZGUgc3UgZmFtaWxpYSwgYXVu
+IGJham8gbGFzIGNpcmN1bnN0YW5jaWFzIG3hcyBhZHZlcnNhcy4NCg==
+</rvf></Component></body></page><page id="p893147562" pageindex="2" name="page3" pp="0" cp="0"><body><Component type="2" id="text1" zorder="0" filename="text893177125" width="930" height="1031" html="" left="234" top="26" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Santa Mónica: vida, obra, oraciones&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Biografía de Mónica de Hipona&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Oraciones a Santa Mónica&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Biografía de Mónica de Hipona&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;La historia de Santa Mónica se conoce gracias a la inmensa obra de su hijo Agustín, Confesiones . Mónica nació alrededor del año 332, en el norte de África, en una familia cristiana. Se casó joven con un pagano notable de la ciudad de Tagaste (ahora Argelia), Patrice. Si bien su esposo era infiel y violento, Mónica era una esposa ejemplar por su paciencia y su silencio ante los reproches, eventualmente logrará la conversión de su esposo.&amp;nbsp; De su unión nacerán al menos tres hijos, incluido San Agustín . Mónica cría a sus hijos en la fe cristiana viva y piadosa, en el 371 queda viuda. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Su hijo Agustín se desvió del camino de la vida cristiana, conviviendo con una mujer, teniendo un hijo sin estar casado y sobre todo por adherirse al maniqueísmo. Mónica lo sigue a Italia donde se encuentra con el obispo Ambrosio quien le anuncia: "Es imposible que el hijo de tales lágrimas se pierda".&amp;nbsp; De hecho, nunca deja de rezar por su conversión.&amp;nbsp; Después de haber tenido la alegría de verlo convertido y bautizado, ella siempre estará a su lado para apoyarlo.&amp;nbsp; Agustín repetía a menudo que su madre lo había "engendrado dos veces".&amp;nbsp; En 387, en Ostia, cerca de Roma, ambos compartieron una experiencia mística evocada por san Agustín en las Confesiones.&amp;nbsp; Unos días después, Mónica cae repentinamente enferma y muere, rogando a sus hijos que no se desvíen de su camino para su entierro, sino que recen por ella en el altar, donde sea que estén. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Santa Mónica se celebra el 27 de agosto, víspera de la fiesta de San Agustín. Es considerada modelo y patrona de las madres cristianas . Santa Mónica es también la protectora de las viudas . &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Descubra otras vidas de santos en Hozana. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Oraciones a Santa Mónica&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Santa Mónica , madre de San Agustín , nunca dejó de rezar por su hijo cuando abandonó la fe y las virtudes cristianas. .Su oración fue ampliamente escuchada cuando este hijo se convirtió, se bautizó y cambió radicalmente su vida, y decidiendo vivir consagrado al Señor en comunidad se convirtió en uno de los más grandes Padres de la Iglesia. Hoy,&amp;nbsp; Santa Mónica, patrona de las madres cristianas , está activa en el cielo para apoyar a todas las madres que se enfrentan a los malos caminos que toman sus hijos. Ella une sus oraciones y su intercesión siempre obtiene milagros de regreso a Dios. Aquí están las oraciones a Santa Mónica :&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Orando por sus hijos con Santa Mónica&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Oh Dios, que tuviste piedad de las lágrimas de santa Mónica, y que concediste a sus ardientes oraciones no solo la conversión de su hijo, sino también su deslumbrante santidad, te imploramos por nuestros hijos con tanta fe y humildad, obtener, como ella, su salvación y nuestra propia santificación. Por intermedio de Jesucristo nuestro Señor. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Amén.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Oración a Santa Mónica para rezar con paciencia sin desanimarse&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;"Oh santa Mónica, tú que has orado durante muchos años, con admirable paciencia, por tu hijo, tu esposo y los demás miembros de tu familia, para que se arrepientan y se conviertan a la fe en el Dios Trino;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Que esperaste tanto tiempo sin saber si tus oraciones serían escuchadas.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Os lo ruego hoy: rezad por mí, para que tenga paciencia en mis pruebas diarias.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Que cuando me sienta tentado a perder la paciencia, ser grosero o reaccionar con ira, ore al Espíritu Santo para que me dé la gracia de mantener la calma, mantenerme enfocado en lo esencial y vivir siempre en esa paz que está eternamente en el mundo.&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Santa Mónica, gracias por ser un modelo de paciencia para mí y gracias por interceder por mí.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" style="font-size:15px;"&gt;Amén."&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Santa Mónica: vida, obra, oraciones&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Biografía de Mónica de Hipona&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Oraciones a Santa Mónica&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Biografía de Mónica de Hipona&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;La historia de Santa Mónica se conoce gracias a la inmensa obra de su hijo Agustín, Confesiones . Mónica nació alrededor del año 332, en el norte de África, en una familia cristiana. Se casó joven con un pagano notable de la ciudad de Tagaste (ahora Argelia), Patrice. Si bien su esposo era infiel y violento, Mónica era una esposa ejemplar por su paciencia y su silencio ante los reproches, eventualmente logrará la conversión de su esposo.&amp;nbsp; De su unión nacerán al menos tres hijos, incluido San Agustín . Mónica cría a sus hijos en la fe cristiana viva y piadosa, en el 371 queda viuda. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Su hijo Agustín se desvió del camino de la vida cristiana, conviviendo con una mujer, teniendo un hijo sin estar casado y sobre todo por adherirse al maniqueísmo. Mónica lo sigue a Italia donde se encuentra con el obispo Ambrosio quien le anuncia: "Es imposible que el hijo de tales lágrimas se pierda".&amp;nbsp; De hecho, nunca deja de rezar por su conversión.&amp;nbsp; Después de haber tenido la alegría de verlo convertido y bautizado, ella siempre estará a su lado para apoyarlo.&amp;nbsp; Agustín repetía a menudo que su madre lo había "engendrado dos veces".&amp;nbsp; En 387, en Ostia, cerca de Roma, ambos compartieron una experiencia mística evocada por san Agustín en las Confesiones.&amp;nbsp; Unos días después, Mónica cae repentinamente enferma y muere, rogando a sus hijos que no se desvíen de su camino para su entierro, sino que recen por ella en el altar, donde sea que estén. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Santa Mónica se celebra el 27 de agosto, víspera de la fiesta de San Agustín. Es considerada modelo y patrona de las madres cristianas . Santa Mónica es también la protectora de las viudas . &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Descubra otras vidas de santos en Hozana. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Oraciones a Santa Mónica&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Santa Mónica , madre de San Agustín , nunca dejó de rezar por su hijo cuando abandonó la fe y las virtudes cristianas. .Su oración fue ampliamente escuchada cuando este hijo se convirtió, se bautizó y cambió radicalmente su vida, y decidiendo vivir consagrado al Señor en comunidad se convirtió en uno de los más grandes Padres de la Iglesia. Hoy,&amp;nbsp; Santa Mónica, patrona de las madres cristianas , está activa en el cielo para apoyar a todas las madres que se enfrentan a los malos caminos que toman sus hijos. Ella une sus oraciones y su intercesión siempre obtiene milagros de regreso a Dios. Aquí están las oraciones a Santa Mónica :&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Orando por sus hijos con Santa Mónica&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Oh Dios, que tuviste piedad de las lágrimas de santa Mónica, y que concediste a sus ardientes oraciones no solo la conversión de su hijo, sino también su deslumbrante santidad, te imploramos por nuestros hijos con tanta fe y humildad, obtener, como ella, su salvación y nuestra propia santificación. Por intermedio de Jesucristo nuestro Señor. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Amén.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Oración a Santa Mónica para rezar con paciencia sin desanimarse&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;"Oh santa Mónica, tú que has orado durante muchos años, con admirable paciencia, por tu hijo, tu esposo y los demás miembros de tu familia, para que se arrepientan y se conviertan a la fe en el Dios Trino;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Que esperaste tanto tiempo sin saber si tus oraciones serían escuchadas.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Os lo ruego hoy: rezad por mí, para que tenga paciencia en mis pruebas diarias.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Que cuando me sienta tentado a perder la paciencia, ser grosero o reaccionar con ira, ore al Espíritu Santo para que me dé la gracia de mantener la calma, mantenerme enfocado en lo esencial y vivir siempre en esa paz que está eternamente en el mundo.&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Santa Mónica, gracias por ser un modelo de paciencia para mí y gracias por interceder por mí.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Century Gothic" class="ws11"&gt;Amén."&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrrAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5DZW50dXJ5IEdvdGhpYwRTaXplAgsAAC05IDIgMCAwIDIgMCAyDQpy
+dnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0
+eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9T
+dHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0
+DQpydnMNCgIAAAAOADMgMzAgMCAwIDAgMA0KU2FudGEgTfNuaWNhOiB2aWRhLCBvYnJhLCBvcmFj
+aW9uZXMNCkJpb2dyYWbtYSBkZSBN825pY2EgZGUgSGlwb25hDQoNCk9yYWNpb25lcyBhIFNhbnRh
+IE3zbmljYQ0KDQpCaW9ncmFm7WEgZGUgTfNuaWNhIGRlIEhpcG9uYQ0KTGEgaGlzdG9yaWEgZGUg
+U2FudGEgTfNuaWNhIHNlIGNvbm9jZSBncmFjaWFzIGEgbGEgaW5tZW5zYSBvYnJhIGRlIHN1IGhp
+am8gQWd1c3TtbiwgQ29uZmVzaW9uZXMgLiBN825pY2EgbmFjafMgYWxyZWRlZG9yIGRlbCBh8W8g
+MzMyLCBlbiBlbCBub3J0ZSBkZSDBZnJpY2EsIGVuIHVuYSBmYW1pbGlhIGNyaXN0aWFuYS4gU2Ug
+Y2Fz8yBqb3ZlbiBjb24gdW4gcGFnYW5vIG5vdGFibGUgZGUgbGEgY2l1ZGFkIGRlIFRhZ2FzdGUg
+KGFob3JhIEFyZ2VsaWEpLCBQYXRyaWNlLiBTaSBiaWVuIHN1IGVzcG9zbyBlcmEgaW5maWVsIHkg
+dmlvbGVudG8sIE3zbmljYSBlcmEgdW5hIGVzcG9zYSBlamVtcGxhciBwb3Igc3UgcGFjaWVuY2lh
+IHkgc3Ugc2lsZW5jaW8gYW50ZSBsb3MgcmVwcm9jaGVzLCBldmVudHVhbG1lbnRlIGxvZ3JhcuEg
+bGEgY29udmVyc2nzbiBkZSBzdSBlc3Bvc28uICBEZSBzdSB1bmnzbiBuYWNlcuFuIGFsIG1lbm9z
+IHRyZXMgaGlqb3MsIGluY2x1aWRvIFNhbiBBZ3VzdO1uIC4gTfNuaWNhIGNy7WEgYSBzdXMgaGlq
+b3MgZW4gbGEgZmUgY3Jpc3RpYW5hIHZpdmEgeSBwaWFkb3NhLCBlbiBlbCAzNzEgcXVlZGEgdml1
+ZGEuIA0KDQpTdSBoaWpvIEFndXN07W4gc2UgZGVzdmnzIGRlbCBjYW1pbm8gZGUgbGEgdmlkYSBj
+cmlzdGlhbmEsIGNvbnZpdmllbmRvIGNvbiB1bmEgbXVqZXIsIHRlbmllbmRvIHVuIGhpam8gc2lu
+IGVzdGFyIGNhc2FkbyB5IHNvYnJlIHRvZG8gcG9yIGFkaGVyaXJzZSBhbCBtYW5pcXVl7XNtby4g
+TfNuaWNhIGxvIHNpZ3VlIGEgSXRhbGlhIGRvbmRlIHNlIGVuY3VlbnRyYSBjb24gZWwgb2Jpc3Bv
+IEFtYnJvc2lvIHF1aWVuIGxlIGFudW5jaWE6ICJFcyBpbXBvc2libGUgcXVlIGVsIGhpam8gZGUg
+dGFsZXMgbOFncmltYXMgc2UgcGllcmRhIi4gIERlIGhlY2hvLCBudW5jYSBkZWphIGRlIHJlemFy
+IHBvciBzdSBjb252ZXJzafNuLiAgRGVzcHXpcyBkZSBoYWJlciB0ZW5pZG8gbGEgYWxlZ3LtYSBk
+ZSB2ZXJsbyBjb252ZXJ0aWRvIHkgYmF1dGl6YWRvLCBlbGxhIHNpZW1wcmUgZXN0YXLhIGEgc3Ug
+bGFkbyBwYXJhIGFwb3lhcmxvLiAgQWd1c3TtbiByZXBldO1hIGEgbWVudWRvIHF1ZSBzdSBtYWRy
+ZSBsbyBoYWLtYSAiZW5nZW5kcmFkbyBkb3MgdmVjZXMiLiAgRW4gMzg3LCBlbiBPc3RpYSwgY2Vy
+Y2EgZGUgUm9tYSwgYW1ib3MgY29tcGFydGllcm9uIHVuYSBleHBlcmllbmNpYSBt7XN0aWNhIGV2
+b2NhZGEgcG9yIHNhbiBBZ3VzdO1uIGVuIGxhcyBDb25mZXNpb25lcy4gIFVub3MgZO1hcyBkZXNw
+delzLCBN825pY2EgY2FlIHJlcGVudGluYW1lbnRlIGVuZmVybWEgeSBtdWVyZSwgcm9nYW5kbyBh
+IHN1cyBoaWpvcyBxdWUgbm8gc2UgZGVzdu1lbiBkZSBzdSBjYW1pbm8gcGFyYSBzdSBlbnRpZXJy
+bywgc2lubyBxdWUgcmVjZW4gcG9yIGVsbGEgZW4gZWwgYWx0YXIsIGRvbmRlIHNlYSBxdWUgZXN0
+6W4uIA0KDQpTYW50YSBN825pY2Egc2UgY2VsZWJyYSBlbCAyNyBkZSBhZ29zdG8sIHbtc3BlcmEg
+ZGUgbGEgZmllc3RhIGRlIFNhbiBBZ3VzdO1uLiBFcyBjb25zaWRlcmFkYSBtb2RlbG8geSBwYXRy
+b25hIGRlIGxhcyBtYWRyZXMgY3Jpc3RpYW5hcyAuIFNhbnRhIE3zbmljYSBlcyB0YW1iaeluIGxh
+IHByb3RlY3RvcmEgZGUgbGFzIHZpdWRhcyAuIA0KDQpEZXNjdWJyYSBvdHJhcyB2aWRhcyBkZSBz
+YW50b3MgZW4gSG96YW5hLiANCg0KT3JhY2lvbmVzIGEgU2FudGEgTfNuaWNhDQpTYW50YSBN825p
+Y2EgLCBtYWRyZSBkZSBTYW4gQWd1c3TtbiAsIG51bmNhIGRlavMgZGUgcmV6YXIgcG9yIHN1IGhp
+am8gY3VhbmRvIGFiYW5kb27zIGxhIGZlIHkgbGFzIHZpcnR1ZGVzIGNyaXN0aWFuYXMuIC5TdSBv
+cmFjafNuIGZ1ZSBhbXBsaWFtZW50ZSBlc2N1Y2hhZGEgY3VhbmRvIGVzdGUgaGlqbyBzZSBjb252
+aXJ0afMsIHNlIGJhdXRpevMgeSBjYW1iafMgcmFkaWNhbG1lbnRlIHN1IHZpZGEsIHkgZGVjaWRp
+ZW5kbyB2aXZpciBjb25zYWdyYWRvIGFsIFNl8W9yIGVuIGNvbXVuaWRhZCBzZSBjb252aXJ0afMg
+ZW4gdW5vIGRlIGxvcyBt4XMgZ3JhbmRlcyBQYWRyZXMgZGUgbGEgSWdsZXNpYS4gSG95LCAgU2Fu
+dGEgTfNuaWNhLCBwYXRyb25hIGRlIGxhcyBtYWRyZXMgY3Jpc3RpYW5hcyAsIGVzdOEgYWN0aXZh
+IGVuIGVsIGNpZWxvIHBhcmEgYXBveWFyIGEgdG9kYXMgbGFzIG1hZHJlcyBxdWUgc2UgZW5mcmVu
+dGFuIGEgbG9zIG1hbG9zIGNhbWlub3MgcXVlIHRvbWFuIHN1cyBoaWpvcy4gRWxsYSB1bmUgc3Vz
+IG9yYWNpb25lcyB5IHN1IGludGVyY2VzafNuIHNpZW1wcmUgb2J0aWVuZSBtaWxhZ3JvcyBkZSBy
+ZWdyZXNvIGEgRGlvcy4gQXF17SBlc3ThbiBsYXMgb3JhY2lvbmVzIGEgU2FudGEgTfNuaWNhIDoN
+Cg0KT3JhbmRvIHBvciBzdXMgaGlqb3MgY29uIFNhbnRhIE3zbmljYQ0KT2ggRGlvcywgcXVlIHR1
+dmlzdGUgcGllZGFkIGRlIGxhcyBs4WdyaW1hcyBkZSBzYW50YSBN825pY2EsIHkgcXVlIGNvbmNl
+ZGlzdGUgYSBzdXMgYXJkaWVudGVzIG9yYWNpb25lcyBubyBzb2xvIGxhIGNvbnZlcnNp824gZGUg
+c3UgaGlqbywgc2lubyB0YW1iaeluIHN1IGRlc2x1bWJyYW50ZSBzYW50aWRhZCwgdGUgaW1wbG9y
+YW1vcyBwb3IgbnVlc3Ryb3MgaGlqb3MgY29uIHRhbnRhIGZlIHkgaHVtaWxkYWQsIG9idGVuZXIs
+IGNvbW8gZWxsYSwgc3Ugc2FsdmFjafNuIHkgbnVlc3RyYSBwcm9waWEgc2FudGlmaWNhY2nzbi4g
+UG9yIGludGVybWVkaW8gZGUgSmVzdWNyaXN0byBudWVzdHJvIFNl8W9yLiANCg0KQW3pbi4NCg0K
+T3JhY2nzbiBhIFNhbnRhIE3zbmljYSBwYXJhIHJlemFyIGNvbiBwYWNpZW5jaWEgc2luIGRlc2Fu
+aW1hcnNlDQoiT2ggc2FudGEgTfNuaWNhLCB0+iBxdWUgaGFzIG9yYWRvIGR1cmFudGUgbXVjaG9z
+IGHxb3MsIGNvbiBhZG1pcmFibGUgcGFjaWVuY2lhLCBwb3IgdHUgaGlqbywgdHUgZXNwb3NvIHkg
+bG9zIGRlbeFzIG1pZW1icm9zIGRlIHR1IGZhbWlsaWEsIHBhcmEgcXVlIHNlIGFycmVwaWVudGFu
+IHkgc2UgY29udmllcnRhbiBhIGxhIGZlIGVuIGVsIERpb3MgVHJpbm87DQpRdWUgZXNwZXJhc3Rl
+IHRhbnRvIHRpZW1wbyBzaW4gc2FiZXIgc2kgdHVzIG9yYWNpb25lcyBzZXLtYW4gZXNjdWNoYWRh
+cy4NCk9zIGxvIHJ1ZWdvIGhveTogcmV6YWQgcG9yIG3tLCBwYXJhIHF1ZSB0ZW5nYSBwYWNpZW5j
+aWEgZW4gbWlzIHBydWViYXMgZGlhcmlhcy4NClF1ZSBjdWFuZG8gbWUgc2llbnRhIHRlbnRhZG8g
+YSBwZXJkZXIgbGEgcGFjaWVuY2lhLCBzZXIgZ3Jvc2VybyBvIHJlYWNjaW9uYXIgY29uIGlyYSwg
+b3JlIGFsIEVzcO1yaXR1IFNhbnRvIHBhcmEgcXVlIG1lIGTpIGxhIGdyYWNpYSBkZSBtYW50ZW5l
+ciBsYSBjYWxtYSwgbWFudGVuZXJtZSBlbmZvY2FkbyBlbiBsbyBlc2VuY2lhbCB5IHZpdmlyIHNp
+ZW1wcmUgZW4gZXNhIHBheiBxdWUgZXN04SBldGVybmFtZW50ZSBlbiBlbCBtdW5kby4gIA0KU2Fu
+dGEgTfNuaWNhLCBncmFjaWFzIHBvciBzZXIgdW4gbW9kZWxvIGRlIHBhY2llbmNpYSBwYXJhIG3t
+IHkgZ3JhY2lhcyBwb3IgaW50ZXJjZWRlciBwb3Igbe0uDQoNCkFt6W4uIg0K
+</rvf></Component><Component type="3" id="image1" zorder="1" filename="image893177140" left="4" top="25" width="221" height="306" originwidth="705" originheight="1222" src="C:\Users\LENOVO\Pictures\f827189d-74b1-47db-90ab-795199ac7301.jpg" previewfile="C:\Users\LENOVO\Pictures\f827189d-74b1-47db-90ab-795199ac7301.jpg"/></body></page><page id="p893148984" pageindex="3" name="page4"><body/></page></site>
